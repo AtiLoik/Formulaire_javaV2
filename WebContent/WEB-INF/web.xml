@@ -4,7 +4,7 @@
   <display-name>GestionFormations</display-name>
   
   <welcome-file-list>
-    <welcome-file>login.html</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
   </welcome-file-list>
   
   <servlet>
@@ -12,8 +12,18 @@
   	<servlet-class>com.objis.gestionformationssession.AuthentificationServlet</servlet-class>
   </servlet>
   
+  <servlet>
+  	<servlet-name>InscriptionServlet</servlet-name>
+  	<servlet-class>com.objis.gestionformationssession.InscriptionServlet</servlet-class>
+  </servlet>
+  
   <servlet-mapping>
   	<servlet-name>AuthentificationServlet</servlet-name>
-  	<url-pattern>/listeformationsXML</url-pattern>
+  	<url-pattern>/authentification</url-pattern>
+  </servlet-mapping>
+  
+  <servlet-mapping>
+  	<servlet-name>InscriptionServlet</servlet-name>
+  	<url-pattern>/inscription</url-pattern>
   </servlet-mapping>
 </web-app>

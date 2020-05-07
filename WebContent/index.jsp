@@ -28,9 +28,9 @@
                     <div class="col-lg-6 col-md-6 col-sm-6 text-center">
                         <div class="card shadow">
                             <div class="card-body">
-                              <h5 class="card-title">Authenticate</h5>
-                              <p class="card-text">Enter your login.</p>
-                              <a href="login.html" class="btn btn-outline-primary">Authenticate</a>
+                              <h5 class="card-title">Connexion</h5>
+                              <p class="card-text">Entrez votre login.</p>
+                              <a href="login.html" class="btn btn-outline-primary">Je me connecte</a>
                             </div>
                         </div>
                     </div>
@@ -38,9 +38,9 @@
                     <div class="col-lg-6 col-md-6 col-sm-6 text-center">
                         <div class="card shadow">
                             <div class="card-body">
-                              <h5 class="card-title">Subscribe</h5>
-                              <p class="card-text">Subscribe with your informations.</p>
-                              <a href="inscription.html" class="btn btn-outline-primary">Subscribe</a>
+                              <h5 class="card-title">Inscription</h5>
+                              <p class="card-text">S'inscrire avec vos informations.</p>
+                              <a href="inscription.html" class="btn btn-outline-primary">Je m'inscris</a>
                             </div>
                         </div>
                     </div>
