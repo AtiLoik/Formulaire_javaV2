@@ -1,8 +1,11 @@
 # Formulaire_javaV2
+
 Prérequis :
 
 1)Avoir  Eclipse (JDK version 12 ou plus) installés en local
+
 2)Avoir un serveur d'application Tomcat en local sinon a installer https://tomcat.apache.org/download-90.cgi
+
 3)Avoir un serveur de base de données  MySQL en local sinon a installer 
 
 
