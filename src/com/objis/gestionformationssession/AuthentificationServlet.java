@@ -1,3 +1,9 @@
+/**
+ * Classe authentification servlet du projet Formulaire Java JSP Servlet
+ * 
+ * @author Master 1 ED2O
+ * @version 0.0.1
+ */
 package com.objis.gestionformationssession;
 
 import java.io.IOException;
