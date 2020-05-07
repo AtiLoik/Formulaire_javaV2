@@ -1,3 +1,6 @@
+/**
+ * La classse Utilisateur du projet Formulaire Java JSP Servlet
+ */
 package com.objis.gestionformationssession.metier;
 
 public class User {
